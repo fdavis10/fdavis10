@@ -29,14 +29,14 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=default&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=fdavis10&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdavis10&layout=compact&langs_count=6&theme=default&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fdavis10&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=3776AB&style=flat-square&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=fdavis10&color=3776AB&style=flat-square&label=profile+views"/>
 </div>
